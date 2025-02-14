@@ -8,7 +8,7 @@
     },
     { "@context": "https://paw-pular.org",
   "@type": "CatItems",
-  "id": "2,
+  "id": "2",
   "name": "Ball of string",
   "description": "Item for cats to hunt that is soft"
    },
